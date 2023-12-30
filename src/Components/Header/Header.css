@@ -1,0 +1,48 @@
+.header {
+    background-color: #232f3e;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.headerInputcontainer {
+    display: flex;
+    flex-grow: 1;
+}
+
+.headerInput {
+    outline: none;
+    padding: 3px;
+    margin-left: 10px;
+    flex: 1;
+}
+
+.spantag {
+    position: absolute;
+    left: 14;
+    right: 14;
+    background-color: white;
+    width: 14;
+    height: 14;
+    border-radius: 7;
+    font-size: 12;
+    font-weight: 400;
+    text-align: center;
+}
+.headerText{
+    font-size: 10px;
+    color: white;
+    font-weight: 550px;
+}
+.headerBottom{
+    background-color: #123456;
+    padding: 6px;
+    height: 32px;
+    display: flex;
+    gap: 15px;
+}
+.headerBottomText{
+    color: white;
+    padding-top: 0px;
+}
