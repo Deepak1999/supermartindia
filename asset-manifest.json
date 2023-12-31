@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/supermartindia/static/css/main.253fa9da.css",
-    "main.js": "/supermartindia/static/js/main.8fdfeb86.js",
+    "main.js": "/supermartindia/static/js/main.d5ab65a5.js",
     "static/js/787.5ba0b993.chunk.js": "/supermartindia/static/js/787.5ba0b993.chunk.js",
     "index.html": "/supermartindia/index.html",
     "main.253fa9da.css.map": "/supermartindia/static/css/main.253fa9da.css.map",
-    "main.8fdfeb86.js.map": "/supermartindia/static/js/main.8fdfeb86.js.map",
+    "main.d5ab65a5.js.map": "/supermartindia/static/js/main.d5ab65a5.js.map",
     "787.5ba0b993.chunk.js.map": "/supermartindia/static/js/787.5ba0b993.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.253fa9da.css",
-    "static/js/main.8fdfeb86.js"
+    "static/js/main.d5ab65a5.js"
   ]
 }
