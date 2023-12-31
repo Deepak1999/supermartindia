@@ -8,7 +8,7 @@ function ProductItem({ item }) {
             <p>{item?.title.length > 30 ? item.title.substr(0, 30) : item.title}</p>
             <p>{item?.description.length > 60 ? item.description.substr(0, 60) : item.description}</p>
             <button className='productAddTocartBtn'>Add to cart</button>
-            {/* <button className='productAddTocartBtnBuy'>Buy Now</button> */}
+            <button className='productAddTocartBtnBuy'>Buy Now</button>
         </div>
     )
 }
