@@ -49,7 +49,9 @@ function Header() {
         <p className='headerBottomText'>Health & LifeStyle</p>
         <p className='headerBottomText'>Prime Video</p>
         <p className='headerBottomText'>Super Sale</p>
+        <p className='headerBottomText'>Offers</p>
         <p className='headerBottomText'>Exciting Offers</p>
+        <p className='headerBottomText'>Subscribe</p>
       </div>
 
     </>
